@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TR_PAM</string>
+    <string name="str_homeTitle">Pilih Provinsi</string>
+    <string name="str_homeSubTitle">Pilih provinsi untuk melihat catatan perjalanan anda</string>
+</resources>

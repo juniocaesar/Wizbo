@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "553398496349",
+    "firebase_url": "https://trpam-6504e.firebaseio.com",
+    "project_id": "trpam-6504e",
+    "storage_bucket": "trpam-6504e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553398496349:android:06426aeeeaeb438782f1b4",
+        "android_client_info": {
+          "package_name": "edu.ftiuksw.tr_pam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553398496349-c69hv51id2rcrd3d04ej1q55tg5sa0ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbK8gqRkOU_suBnHri1JBrDW_gJhlkCmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553398496349-c69hv51id2rcrd3d04ej1q55tg5sa0ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

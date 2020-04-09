@@ -1,0 +1,2 @@
+rootProject.name='TR_PAM'
+include ':app'
